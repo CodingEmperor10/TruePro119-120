@@ -1,0 +1,102 @@
+.test_image_and_result
+{
+background-color: aqua;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 30px;
+margin: 10px;
+}
+
+
+.test_image_and_result_2
+{
+background-color: crimson;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_3
+{
+background-color: yellow;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_4
+{
+background-color: orange;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_5
+{
+background-color:  grey;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, 'Gill Sans';
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_6
+{
+background-color: pink;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, 'Gill Sans';
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_7
+{
+background-color: darkviolet;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, 'Gill Sans';
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_8
+{
+background-color: coral;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, 'Gill Sans';
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_9
+{
+background-color: deepskyblue;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, 'Gill Sans';
+padding: 30px;
+margin: 10px;
+}
+
+.test_image_and_result_10
+{
+background-color: yellowgreen;    
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, 'Gill Sans';
+padding: 30px;
+margin: 10px;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    }
